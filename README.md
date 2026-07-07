@@ -6,3 +6,5 @@ The samplem.bas file is a basic file that can write a .seq file (sequential bina
 A runtime written in assembly for the 6510/c64
 
 A translator to convert p-code to 6510 machine code
+
+An interpreter, written in Tiny Pascal (from the book), compiled to machine code.
